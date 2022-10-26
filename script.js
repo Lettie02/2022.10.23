@@ -70,3 +70,6 @@ const robots = [
     image: "https://robohash.org/10?200x200",
   },
 ];
+function search() {
+  document.querySelectorAll(".card");
+}
